@@ -1,5 +1,5 @@
 #Running commands on the docker image
-FROM python:3.8-alpine
+FROM python:3.7-alpine
 LABEL maintainer="Biohazard"  
 
 ENV PYTHONUNBUFFERED 1
